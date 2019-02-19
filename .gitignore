@@ -1,0 +1,6 @@
+# Ignore everything beginning with .
+.*
+!.gitignore
+
+bin
+build
